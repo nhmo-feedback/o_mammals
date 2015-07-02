@@ -1,0 +1,93 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 5
+	Country: Paraguay ; Times: 3
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 5
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 3
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-09 ; Times: 3
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-14 ; Times: 5
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-21 ; Times: 2
+	Date: 2015-06-24 ; Times: 2
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Procolobus kirkii" ; Times: 1
+	Query: "class:Mammalia Macaca sylvana" ; Times: 1
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "mammalia 10757" ; Times: 1
+	Query: "class:Mammalia Macaca sylvanus" ; Times: 1
+	Query: "myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "country:"Paraguay" genus:Leopardus" ; Times: 1
+	Query: "choloepus foetus" ; Times: 2
+	Query: "Hippocamelus bisulcus" ; Times: 2
+	Query: "class:Mammalia Lophocebus aterrimus" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "Lophocebus aterrimus mappable:1" ; Times: 1
+	Query: "country:"country"" ; Times: 1
+	Query: "country:"Paraguay" genus:Tapirus class:Mammalia" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "Canis aureus" ; Times: 3
+	Query: "mellivora capensis" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 2
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 2
+	Query: "bradypus foetus" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "country:"Paraguay" genus:Lontra class:Mammalia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 71
+Total number of records retrieved from searches: 491
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 71
+Total number of records retrieved from searches: 491
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
