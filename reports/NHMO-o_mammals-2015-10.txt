@@ -1,0 +1,170 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Czech Republic ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+	Country: Guatemala ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-12 ; Times: 4
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-31 ; Times: 2
+	Date: 2015-10-01 ; Times: 5
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "Mustela lutreola" ; Times: 2
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "institutioncode:nhmo" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "herpailurus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "15205" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "Rhizomys sinensis" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 3
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 4
+	Query: "class: Mammalia class:Mammalia locality:Rocky Mountains country:&#34;USA&#34;" ; Times: 1
+	Query: "Conepatus Guatemala" ; Times: 2
+	Query: "H 5760" ; Times: 1
+	Query: "Erethizon (Labrador)" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 823 download events in this period)
+Total number of records downloaded: 1352
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Italy ; Times: 5
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 5
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 43
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 8
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 8
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 9
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 7
+	Date: 2015-10-30 ; Times: 9
+	Date: 2015-10-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Panthera onca" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx mappable:1" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "ovis aries" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "Panthera leo" ; Times: 4
+
+
+End of report.
