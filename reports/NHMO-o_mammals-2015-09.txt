@@ -1,0 +1,190 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 674
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 10
+	Country: United States ; Times: 54
+	Country: Germany ; Times: 7
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 18
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-04 ; Times: 12
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-07 ; Times: 4
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-12 ; Times: 4
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-29 ; Times: 6
+	Date: 2015-09-27 ; Times: 3
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-09 ; Times: 8
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "orcinus" ; Times: 1
+	Query: "&#34;Acinonyx jubatus&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "institutioncode:nhmo" ; Times: 2
+	Query: "coendou prehensilis mappable:1" ; Times: 2
+	Query: "crocuta crocuta" ; Times: 3
+	Query: "Coendou prehensilis Coendou prehensilis type:specimen mappable:1" ; Times: 1
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "cabassous" ; Times: 2
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "&#34;Giraffa camelopardalis&#34; mappable:1" ; Times: 1
+	Query: "Cuniculus" ; Times: 1
+	Query: "Coendou" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 5
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 1
+	Query: "Neomys fodiens" ; Times: 1
+	Query: "viverricula" ; Times: 1
+	Query: "crocuta" ; Times: 2
+	Query: "&#34;Cyclopes didactylus&#34; mappable:1" ; Times: 1
+	Query: "Coendou prehensilis type:specimen mappable:1" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 14
+	Query: "Dermoptera" ; Times: 11
+	Query: "neomys fodiens" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "bradypus torquatus" ; Times: 8
+	Query: "arctocephalus gazella" ; Times: 2
+	Query: "indica Madagascar" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 161 (out of 1045 download events in this period)
+Total number of records downloaded: 4816
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 7
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 3
+	Country: United States ; Times: 123
+	Country: Colombia ; Times: 3
+	Country: Hungary ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 14
+	Date: 2015-09-10 ; Times: 32
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 13
+	Date: 2015-09-16 ; Times: 21
+	Date: 2015-09-17 ; Times: 6
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 6
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-07 ; Times: 13
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-01 ; Times: 4
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 13
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Phascolarctos cinereus mappable:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "callosciurus erythraeus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Myrmecobius fasciatus mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "family:geomyidae type:specimen mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "saguinus oedipus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 22
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 27
+	Query: "Dermoptera" ; Times: 2
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Viverricula indica" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "genus:bradypus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+
+
+End of report.
