@@ -1,0 +1,128 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Turkey ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Naemorhedus" ; Times: 2
+	Query: "Lemur catta" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "genus:Potamogale" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "order:Carnivora country:&#34;Kenya&#34; mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 889 download events in this period)
+Total number of records downloaded: 2105
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 15
+	Country: Uruguay ; Times: 1
+	Country: United States ; Times: 63
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 1
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 10
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-23 ; Times: 6
+	Date: 2015-12-25 ; Times: 14
+	Date: 2015-12-24 ; Times: 10
+	Date: 2015-12-27 ; Times: 5
+	Date: 2015-12-26 ; Times: 4
+	Date: 2015-12-29 ; Times: 3
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 2
+	Date: 2015-12-12 ; Times: 5
+	Date: 2015-12-13 ; Times: 4
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:canadensis genus:Lontra" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:gulo genus:Gulo" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:californicus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "specificepithet:leucogaster genus:Onychomys" ; Times: 1
+	Query: "specificepithet:yagouaroundi" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "specificepithet:talpoides genus:Thomomys" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "specificepithet:californicus genus:Chaetodipus" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "carollia" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "Panthera onca" ; Times: 3
+	Query: "lontra longicaudis" ; Times: 2
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "spermophilus parryii mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Gerbillus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+
+
+End of report.
