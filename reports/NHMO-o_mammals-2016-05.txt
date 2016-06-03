@@ -1,0 +1,82 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 302
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-31 ; Times: 20
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "meles meles" ; Times: 4
+	Query: "sphiggurus" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 19
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "genus:Tamias institutioncode:NHMO" ; Times: 1
+	Query: "Equus quagga quagga" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 327 download events in this period)
+Total number of records downloaded: 550
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-31 ; Times: 17
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 13
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "puma concolor" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "PUMA CONCOLOR" ; Times: 2
+
+
+End of report.
