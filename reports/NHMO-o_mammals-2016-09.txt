@@ -1,0 +1,147 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 356
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 61
+	Country: Unknown ; Times: 3
+	Country: Portugal ; Times: 11
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-07 ; Times: 20
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 8
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-23 ; Times: 4
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 2
+	Date: 2016-09-05 ; Times: 7
+	Date: 2016-09-06 ; Times: 5
+	Date: 2016-09-21 ; Times: 10
+	Date: 2016-09-01 ; Times: 8
+	Date: 2016-09-02 ; Times: 2
+	Date: 2016-09-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;giraffa&#34; &#34;camelopardalis&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Lepus" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1 cynocephalus variegatus" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "&#34;Acinonyx jubatus&#34; mappable:1" ; Times: 4
+	Query: "specificepithet:pygerythrus genus:Callosciurus" ; Times: 1
+	Query: "coendou prehensilis mappable:1" ; Times: 2
+	Query: "specificepithet:palliatus genus:Paraxerus" ; Times: 4
+	Query: "(panthera tigris tigris ) mappable:1" ; Times: 1
+	Query: "Cercocebus torquatus 1" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "Acinonyx jubatus mappable:1" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "Pithecia pithecia 1" ; Times: 1
+	Query: "type:specimen specificepithet:femoralis genus:Presbytis" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "&#34;Martes martes&#34; mappable:1" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "&#34;Panthera tigris&#34; mappable:1" ; Times: 1
+	Query: "&#34;Leontopithecus rosalia&#34; mappable:1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "&#34;Helarctos malayanus&#34; mappable:1" ; Times: 1
+	Query: "&#34;Plecotus auritus&#34; mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 8
+	Query: "Lemur catta mappable:1" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "bos taurus taurus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 4
+	Query: "Trichechus inunguis" ; Times: 2
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Dama dama 1" ; Times: 3
+	Query: "&#34;acinonyx&#34; mappable:1" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Nyctereutes procyonoides 1" ; Times: 9
+	Query: "Herpestes ichneumon 1" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 4
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 214 (out of 811 download events in this period)
+Total number of records downloaded: 1880
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 108
+	Country: Netherlands ; Times: 99
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 8
+	Date: 2016-09-12 ; Times: 7
+	Date: 2016-09-11 ; Times: 8
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-06 ; Times: 21
+	Date: 2016-09-07 ; Times: 30
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 8
+	Date: 2016-09-03 ; Times: 15
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 26
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-01 ; Times: 11
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-05 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "mustela nivalis" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "&#34;Cynocephalidae&#34; mappable:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "giraffa camelopardalis mappable:1" ; Times: 1
+	Query: "&#34;Plecotus auritus&#34; mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "Cynocephalidae mappable:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "(panthera tigris tigris ) mappable:1" ; Times: 1
+
+
+End of report.
