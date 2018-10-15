@@ -1,0 +1,87 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 144
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Denmark ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 8
+	Date: 2017-12-07 ; Times: 4
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Alces" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "bos grunniens" ; Times: 2
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "15193 gulo" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "specificepithet:borealis genus:Balaenoptera" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 674 download events in this period)
+Total number of records downloaded: 1446
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-27 ; Times: 3
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex fumeus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 2
+
+
+End of report.
