@@ -1,0 +1,153 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 1752
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 29
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 38
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Norway ; Times: 9
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 8
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 8
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-18 ; Times: 9
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-08 ; Times: 20
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-22 ; Times: 12
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "10048" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 8
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "Balaenoptera musculus vntype:specimen genus:Balaenoptera institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 2000 year &lt;= 2009" ; Times: 2
+	Query: "Erinaceus russia" ; Times: 1
+	Query: "Lepus europaeus russia" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "specificepithet:Lutra genus:lutra" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "chlamyphorus" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 9
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "country:&#34;Switzerland&#34; institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:alopex year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "equus quagga" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "country:&#34;Pakistan&#34; institutioncode:NHMO" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "alces" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 6
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Lepus brachyurus" ; Times: 2
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "country:&#34;Cameroon&#34; institutioncode:NHMO" ; Times: 1
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "genus:lasiurus institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1990 year &lt;= 1999" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "muntjac" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "gbifdatasetid:609217ee-054d-441d-a850-356cbc2fb385" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1178 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "palliata" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "macropus rufus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+
+
+End of report.
