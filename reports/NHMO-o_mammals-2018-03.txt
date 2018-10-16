@@ -1,0 +1,365 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1018
+Number of records retrieved in searches: 7406
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Madagascar ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 222
+	Country: Israel ; Times: 1
+	Country: Cameroon ; Times: 2
+	Country: United Kingdom ; Times: 29
+	Country: Norway ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 738
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 45
+	Date: 2018-03-07 ; Times: 224
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-01 ; Times: 70
+	Date: 2018-03-02 ; Times: 82
+	Date: 2018-03-03 ; Times: 12
+	Date: 2018-03-05 ; Times: 110
+	Date: 2018-03-28 ; Times: 19
+	Date: 2018-03-29 ; Times: 29
+	Date: 2018-03-08 ; Times: 9
+	Date: 2018-03-27 ; Times: 127
+	Date: 2018-03-25 ; Times: 50
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 13
+	Date: 2018-03-20 ; Times: 88
+	Date: 2018-03-21 ; Times: 21
+	Date: 2018-03-26 ; Times: 108
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Indri specificepithet:indri" ; Times: 9
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13493&#34;" ; Times: 4
+	Query: "Myocastoridae" ; Times: 1
+	Query: "genus:Potamogale specificepithet:velox" ; Times: 5
+	Query: "genus:Eulemur specificepithet:fulvus" ; Times: 9
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13505&#34;" ; Times: 4
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Cabassous specificepithet:unicinctus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13518&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13535&#34;" ; Times: 4
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13542&#34;" ; Times: 4
+	Query: "genus:Cercopithecus specificepithet:diana" ; Times: 5
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "Felis silvestris mappable:1" ; Times: 2
+	Query: "Cheirogaleidae" ; Times: 1
+	Query: "genus:Vulpes specificepithet:vulpes" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13498&#34;" ; Times: 4
+	Query: "genus:Hapalemur specificepithet:griseus" ; Times: 8
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "genus:Ceratotherium specificepithet:simum" ; Times: 5
+	Query: "genus:Cercopithecus specificepithet:pogonias" ; Times: 5
+	Query: "genus:Lasiorhinus specificepithet:latifrons" ; Times: 2
+	Query: "genus:Alouatta specificepithet:seniculus" ; Times: 6
+	Query: "specificepithet:philander genus:Caluromys" ; Times: 1
+	Query: "genus:Dactylopsila specificepithet:trivirgata" ; Times: 2
+	Query: "genus:Nasalis specificepithet:larvatus" ; Times: 8
+	Query: "genus:Canis specificepithet:mesomelas" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13522&#34;" ; Times: 4
+	Query: "genus:Cynocephalus specificepithet:volans" ; Times: 9
+	Query: "8221" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13502&#34;" ; Times: 4
+	Query: "genus:Lepilemur specificepithet:mustelinus" ; Times: 13
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13534&#34;" ; Times: 4
+	Query: "genus:Bos specificepithet:taurus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13543&#34;" ; Times: 4
+	Query: "genus:Setifer specificepithet:setosus" ; Times: 6
+	Query: "genus:Chlorocebus specificepithet:aethiops" ; Times: 7
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 7
+	Query: "15119" ; Times: 1
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13499&#34;" ; Times: 4
+	Query: "genus:Lontra specificepithet:longicaudis" ; Times: 5
+	Query: "genus:Leontopithecus specificepithet:rosalia" ; Times: 7
+	Query: "Setifer setosus" ; Times: 3
+	Query: "Plecotus auritus" ; Times: 4
+	Query: "genus:Lutra specificepithet:lutra" ; Times: 5
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 5
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 7
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "genus:Equus specificepithet:quagga" ; Times: 5
+	Query: "specificepithet:pardalis genus:Leopardus" ; Times: 1
+	Query: "genus:Avahi specificepithet:laniger" ; Times: 9
+	Query: "16171" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13513&#34;" ; Times: 4
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13520&#34;" ; Times: 4
+	Query: "genus:Giraffa  specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Micromys specificepithet:minutus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13512&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13533&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13503&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13536&#34;" ; Times: 4
+	Query: "specificepithet:didactylus genus:Choloepus" ; Times: 1
+	Query: "specificepithet:nudicaudatus genus:Metachirus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13523&#34;" ; Times: 4
+	Query: "specificepithet:chinga genus:conepatus" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Dasyprocta" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:mona" ; Times: 2
+	Query: "genus:Pithecia specificepithet:pithecia" ; Times: 7
+	Query: "specificepithet:minimus genus:Chironectes" ; Times: 1
+	Query: "Barbastella vntype:specimen" ; Times: 5
+	Query: "specificepithet:truncatus family:Dasypodidae" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "Rhinoceros sondaicus" ; Times: 2
+	Query: "genus:Presbytis specificepithet:rubicunda" ; Times: 5
+	Query: "specificepithet:agilis genus:Gracilinanus" ; Times: 1
+	Query: "Erinaceidae" ; Times: 1
+	Query: "genus:Hyaena specificepithet:hyaena" ; Times: 5
+	Query: "specificepithet:tridactylus genus:Bradypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:monachus genus:Monachus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 5
+	Query: "genus:Nyctalus specificepithet:noctula" ; Times: 2
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 5
+	Query: "genus:Pteropus specificepithet:scapulatus" ; Times: 2
+	Query: "genus:Phoca" ; Times: 1
+	Query: "genus:Euphractus specificepithet:sexcinctus" ; Times: 5
+	Query: "genus:gorilla specificepithet:gorilla" ; Times: 2
+	Query: "genus:Lophocebus specificepithet:aterrimus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13508&#34;" ; Times: 4
+	Query: "genus:Petaurista  specificepithet:petaurista" ; Times: 3
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13515&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13532&#34;" ; Times: 4
+	Query: "specificepithet:longicaudis genus:Lontra" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "Barbastella" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 10
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13524&#34;" ; Times: 4
+	Query: "genus:Cercocebus specificepithet:torquatus" ; Times: 7
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 8
+	Query: "genus:Tarsius specificepithet:spectrum" ; Times: 11
+	Query: "genus:Heliosciurus specificepithet:rufobrachium" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13500&#34;" ; Times: 4
+	Query: "genus:Myotis specificepithet:mystacinus" ; Times: 5
+	Query: "genus:Planigale specificepithet:ingrami" ; Times: 5
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 7
+	Query: "priodontes" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13541&#34;" ; Times: 4
+	Query: "genus:Diceros specificepithet:bicornis" ; Times: 2
+	Query: "genus:Cercopithecus specificepithet:neglectus" ; Times: 5
+	Query: "genus:Otolemur specificepithet:crassicaudatus" ; Times: 12
+	Query: "genus:Vespertilio specificepithet:murinus" ; Times: 5
+	Query: "genus:Cebus specificepithet:capucinus" ; Times: 2
+	Query: "genus:Coendou specificepithet:prehensilis" ; Times: 6
+	Query: "genus:Alouatta specificepithet:palliata" ; Times: 6
+	Query: "genus:Presbytis specificepithet:hosei" ; Times: 5
+	Query: "genus:Chaetophractus specificepithet:villosus" ; Times: 5
+	Query: "specificepithet:gymnurus genus:Hoplomys" ; Times: 1
+	Query: "genus:Nycticebus specificepithet:coucang" ; Times: 9
+	Query: "genus:Mandrillus specificepithet:sphinx" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13509&#34;" ; Times: 4
+	Query: "genus:Hemibelideus specificepithet:lemuroides" ; Times: 6
+	Query: "genus:Hylobates specificepithet:lar" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13514&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13531&#34;" ; Times: 4
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Bradypus specificepithet:tridactylus " ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13525&#34;" ; Times: 4
+	Query: "genus:Macaca specificepithet:sylvanus" ; Times: 6
+	Query: "genus:Rhizomys specificepithet:sumatrensis" ; Times: 5
+	Query: "genus:Rhinolophus specificepithet:hipposideros" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13501&#34;" ; Times: 4
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Sphiggurus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13546&#34;" ; Times: 4
+	Query: "genus:Cheirogaleus specificepithet:medius" ; Times: 10
+	Query: "genus:Macaca specificepithet:nemestrina" ; Times: 6
+	Query: "specificepithet:marica genus:Gracilinanus" ; Times: 1
+	Query: "genus:Loris specificepithet:tardigradus" ; Times: 9
+	Query: "genus:Macroscelides specificepithet:proboscideus" ; Times: 5
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "genus:Phascolarctos specificepithet:cinereus" ; Times: 2
+	Query: "specificepithet:semispinosus genus:Hemicentetes" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13540&#34;" ; Times: 4
+	Query: "genus:Megaptera specificepithet:novaeangliae" ; Times: 5
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13538&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13494&#34;" ; Times: 4
+	Query: "genus:Trachypithecus specificepithet:cristata" ; Times: 7
+	Query: "specificepithet:unicinctus genus:Cabassous" ; Times: 1
+	Query: "Lund Museum" ; Times: 1
+	Query: "genus:Presbytis specificepithet:frontata" ; Times: 5
+	Query: "specificepithet:crassicaudata genus:Lutreolina" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:nictitans" ; Times: 2
+	Query: "genus:Callithrix specificepithet:jacchus" ; Times: 7
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13506&#34;" ; Times: 4
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 3
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13517&#34;" ; Times: 4
+	Query: "genus:Microcebus specificepithet:murinus" ; Times: 13
+	Query: "genus:Aepyprymnus specificepithet:rufescens" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13526&#34;" ; Times: 4
+	Query: "genus:Cynocephalus specificepithet:variegatus" ; Times: 7
+	Query: "genus:Eulemur specificepithet:macaco" ; Times: 5
+	Query: "genus:Macaca specificepithet:sinica" ; Times: 5
+	Query: "genus:Microcebus specificepithet:rufus" ; Times: 9
+	Query: "genus:Presbytis specificepithet:femoralis" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13537&#34;" ; Times: 4
+	Query: "genus:Presbytis specificepithet:melalophos" ; Times: 7
+	Query: "genus:Trachypithecus specificepithet:obscurus" ; Times: 5
+	Query: "genus:Hylobates specificepithet:syndactylus" ; Times: 6
+	Query: "genus:Lemur specificepithet:catta" ; Times: 12
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 2
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 5
+	Query: "genus:Semnopithecus specificepithet:entellus" ; Times: 6
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Tenrec specificepithet:ecaudatus" ; Times: 6
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13495&#34;" ; Times: 4
+	Query: "specificepithet:prehensilis genus:Coendou" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 2
+	Query: "specificepithet:gulo genus:gulo" ; Times: 7
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 2
+	Query: "genus:Hemicentetes specificepithet:semispinosus" ; Times: 6
+	Query: "genus:Balaenoptera specificepithet:physalus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13507&#34;" ; Times: 4
+	Query: "genus:Pipistrellus specificepithet:tenuis" ; Times: 2
+	Query: "genus:Nyctereutes" ; Times: 3
+	Query: "genus:Pteromys" ; Times: 3
+	Query: "10273" ; Times: 1
+	Query: "specificepithet:hoffmanni genus:Choloepus" ; Times: 1
+	Query: "genus:Cricetomys specificepithet:gambianus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13527&#34;" ; Times: 4
+	Query: "genus:Pteropus specificepithet:poliocephalus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13539&#34;" ; Times: 4
+	Query: "genus:Cheirogaleus specificepithet:major" ; Times: 10
+	Query: "genus:Galago specificepithet:senegalensis" ; Times: 3
+	Query: "genus:Echinops specificepithet:telfairi" ; Times: 6
+	Query: "genus:Colobus specificepithet:guereza" ; Times: 2
+	Query: "genus:Allactaga specificepithet:major" ; Times: 6
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "specificepithet:laniger genus:Thomasomys" ; Times: 1
+	Query: "genus:Megaderma specificepithet:lyra" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13530&#34;" ; Times: 4
+	Query: "genus:Chaetophractus specificepithet:vellerosus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13528&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13496&#34;" ; Times: 4
+	Query: "genus:Leopardus specificepithet:pardalis" ; Times: 2
+	Query: "lobodon carcinophagus" ; Times: 1
+	Query: "genus:Propithecus specificepithet:diadema" ; Times: 12
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13544&#34;" ; Times: 4
+	Query: "specificepithet:vicugna genus:Vicugna" ; Times: 1
+	Query: "Panthera tigris " ; Times: 1
+	Query: "genus:Arctictis specificepithet:binturong" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13511&#34;" ; Times: 4
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 2
+	Query: "18525" ; Times: 1
+	Query: "genus:gorilla" ; Times: 2
+	Query: "genus:Choloepus specificepithet:didactylus " ; Times: 5
+	Query: "genus:Marmosa specificepithet:murina" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13516&#34;" ; Times: 4
+	Query: "Vespertilio murinus" ; Times: 1
+	Query: "scientificname:gorilla gorilla" ; Times: 1
+	Query: "genus:Plecotus specificepithet:auritus" ; Times: 5
+	Query: "genus:Saccolaimus specificepithet:saccolaimus" ; Times: 5
+	Query: "specificepithet:murina genus:Marmosa" ; Times: 1
+	Query: "specificepithet:vittata genus:Galictis" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13519&#34;" ; Times: 4
+	Query: "genus:Chironectes specificepithet:minimus" ; Times: 5
+	Query: "genus:Procavia specificepithet:capensis" ; Times: 2
+	Query: "genus:Dasyurus specificepithet:viverrinus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13545&#34;" ; Times: 4
+	Query: "genus:Tupaia specificepithet:tana" ; Times: 5
+	Query: "genus:Lutreolina specificepithet:crassicaudata" ; Times: 5
+	Query: "genus:Ursus specificepithet:arctos" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13529&#34;" ; Times: 4
+	Query: "Antilope cervicapra" ; Times: 1
+	Query: "specificepithet:didactylus genus:Cyclopes" ; Times: 1
+	Query: "genus:Rhinoceros specificepithet:unicornis" ; Times: 5
+	Query: "genus:Pteropus specificepithet:alecto" ; Times: 2
+	Query: "genus:Gracilinanus specificepithet:agilis" ; Times: 5
+	Query: "specificepithet:chinga genus:Conepatus" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Pan country:&#34;Cameroon&#34; institutioncode:NHMO" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13510&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13497&#34;" ; Times: 4
+	Query: "Equidae" ; Times: 4
+	Query: "genus:Cheiromeles specificepithet:torquatus" ; Times: 5
+	Query: "genus:Ratufa specificepithet:affinis" ; Times: 2
+	Query: "genus:Choloepus specificepithet:hoffmanni" ; Times: 2
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 7
+	Query: "iptrecordid:&#34;urn:catalog:O:Mam:13521&#34;" ; Times: 4
+	Query: "specificepithet:cancrivorus genus:Procyon" ; Times: 1
+	Query: "genus:Trachypithecus specificepithet:obscura" ; Times: 7
+	Query: "genus:Callicebus specificepithet:personatus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1284 download events in this period)
+Total number of records downloaded: 760
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Cameroon ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-29 ; Times: 3
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-24 ; Times: 5
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "vntype:specimen genus:Galictis family:Mustelidae order:Carnivora class:Mammalia" ; Times: 1
+	Query: "Barbastella vntype:specimen" ; Times: 1
+	Query: "Rhinoceros sondaicus" ; Times: 1
+	Query: "genus:Monachus" ; Times: 1
+	Query: "vntype:specimen specificepithet:monachus genus:Monachus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Phocidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "vntype:specimen order:Cetacea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Odobenidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "family:Soricidae country:&#34;USA&#34;" ; Times: 1
+	Query: "vntype:specimen family:Manidae basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
