@@ -1,0 +1,119 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 400
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 40
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 7
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cheirogaleus medius" ; Times: 5
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "genus:Lemur" ; Times: 1
+	Query: "specificepithet:novaeangliae genus:Megaptera" ; Times: 3
+	Query: "sorex minutissimus" ; Times: 5
+	Query: "19696" ; Times: 1
+	Query: "genus:euphractus" ; Times: 1
+	Query: "Hippocamelus" ; Times: 1
+	Query: "genus:hydrurga" ; Times: 3
+	Query: "Cheirogaleus" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 4
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "Brachyteles" ; Times: 2
+	Query: "priodontes" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Avahi" ; Times: 2
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "neomys fodiens" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Meles meles" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "alces alces" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1169 download events in this period)
+Total number of records downloaded: 2081
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "koala" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Gracilinanus agilis" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "Microtus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus year &gt;= 1990 year &lt;= 2018" ; Times: 1
+
+
+End of report.
