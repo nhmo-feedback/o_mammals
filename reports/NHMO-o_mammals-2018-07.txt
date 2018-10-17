@@ -1,0 +1,99 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 13
+	Country: El Salvador ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-28 ; Times: 2
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 5
+	Date: 2018-07-31 ; Times: 4
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 12
+	Date: 2018-07-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "specificepithet:corsac genus:Vulpes" ; Times: 3
+	Query: "10046" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "herpailurus" ; Times: 1
+	Query: "Delphinapterus" ; Times: 1
+	Query: "Mesoplodon bidens" ; Times: 3
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "18420" ; Times: 1
+	Query: "genus:anomalurus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "13625" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "Orcinus" ; Times: 2
+	Query: "Trichechus inunguis" ; Times: 13
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:NHMO" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "13038" ; Times: 1
+	Query: "specificepithet:lynx genus:Lynx" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 50
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "Canis latrans specificepithet:Latrans genus:Canis institutioncode:NHMO" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
