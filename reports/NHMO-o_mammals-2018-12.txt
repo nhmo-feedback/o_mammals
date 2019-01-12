@@ -1,0 +1,155 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 372
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 6
+	Country: France ; Times: 2
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 10
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-09 ; Times: 2
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-01 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-30 ; Times: 4
+	Date: 2018-12-28 ; Times: 9
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:12139" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "10732" ; Times: 2
+	Query: "Tursiops truncatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 2
+	Query: "melursus" ; Times: 1
+	Query: "felis silvestris" ; Times: 5
+	Query: "Lepus europaeus" ; Times: 6
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;Russia&#34;" ; Times: 1
+	Query: "specificepithet:unicinctus genus:Cabassous" ; Times: 4
+	Query: "Halichoerus" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Soricidae" ; Times: 1
+	Query: "catalognumber:11660" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Apodemus sylvaticus" ; Times: 2
+	Query: "ZMB" ; Times: 1
+	Query: "15623" ; Times: 1
+	Query: "10379" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "vntype:specimen genus:Prionodon" ; Times: 2
+	Query: "genus:Eubalaena" ; Times: 2
+	Query: "elephantulus revoili" ; Times: 11
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "Halichoerus grypus mappable:1" ; Times: 1
+	Query: "13139" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 809 download events in this period)
+Total number of records downloaded: 930
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 25
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 9
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-09 ; Times: 16
+	Date: 2018-12-10 ; Times: 8
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 3
+	Date: 2018-12-18 ; Times: 7
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-30 ; Times: 4
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 2
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Soricidae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Apodemus sylvaticus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "carollia perspicillata" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Alouatta seniculus seniculus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Rodentia" ; Times: 1
+	Query: "potos flavus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
