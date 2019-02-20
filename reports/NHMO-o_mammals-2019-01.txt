@@ -1,0 +1,198 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 188
+Number of records retrieved in searches: 1143
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: India ; Times: 3
+	Country: Czechia ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 109
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 31
+	Country: Russia ; Times: 18
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 19
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-14 ; Times: 38
+	Date: 2019-01-15 ; Times: 13
+	Date: 2019-01-16 ; Times: 6
+	Date: 2019-01-17 ; Times: 6
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-11 ; Times: 7
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 9
+	Date: 2019-01-29 ; Times: 5
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-07 ; Times: 6
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 7
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-20 ; Times: 4
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 26
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 5
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "galemys pyrenaicus" ; Times: 2
+	Query: "13917" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "Naemorhedus" ; Times: 1
+	Query: "stenella coeruleoalba" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 2
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "&#34;Megaptera novaeangliae&#34;" ; Times: 2
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "15284" ; Times: 1
+	Query: "11225" ; Times: 1
+	Query: "lutra lutra" ; Times: 3
+	Query: "cavia porcellus" ; Times: 1
+	Query: "genus:Alopex institutioncode:NHMO" ; Times: 4
+	Query: "papio hamadryas" ; Times: 3
+	Query: "Gracilinanus marica" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Semnopithecus entellus" ; Times: 3
+	Query: "Moschus" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 31
+	Query: "10812" ; Times: 1
+	Query: "(11966)" ; Times: 1
+	Query: "&#34;Equus caballus&#34;" ; Times: 1
+	Query: "Hippocamelus bisulcus" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "genus:Alopex" ; Times: 14
+	Query: "lepus europaeus" ; Times: 3
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 3
+	Query: "18466" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "(dermoptera)" ; Times: 1
+	Query: "12623" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Alces alces" ; Times: 2
+	Query: "20284" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 4
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 9
+	Query: "elephantulus revoili" ; Times: 2
+	Query: "tarsius spectrum" ; Times: 1
+	Query: "okapi" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 2
+	Query: "dermoptera" ; Times: 9
+	Query: "myocastor coypus" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 2
+	Query: "15059" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 962 download events in this period)
+Total number of records downloaded: 2332
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 104
+	Country: Mexico ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 5
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-28 ; Times: 10
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-22 ; Times: 5
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-27 ; Times: 11
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-31 ; Times: 24
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-30 ; Times: 17
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "marmosa" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Gracilinanus marica" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "vntype:specimen class:Mammalia country:&#34;Madagascar&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "genus:Alopex" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Manidae" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "&#34;Caracal caracal&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae order:Primates class:Mammalia country:&#34;Madagascar&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.
