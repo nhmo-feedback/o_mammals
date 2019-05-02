@@ -1,0 +1,131 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 389
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 27
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 19
+	Country: United Kingdom ; Times: 8
+	Country: Sweden ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-18 ; Times: 4
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 18
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 10
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 6
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "15384" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 17
+	Query: "potamogale" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Balaenoptera" ; Times: 4
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:aurita genus:Didelphis" ; Times: 1
+	Query: "genus:Alces year &gt;= 1919 year &lt;= 2018" ; Times: 1
+	Query: "lutra lutra (Norway)" ; Times: 1
+	Query: "herpailurus yagouaroundi" ; Times: 1
+	Query: "Lophocebus aterrimus" ; Times: 2
+	Query: "11583" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "tenrec" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "Meles meles" ; Times: 3
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 6
+	Query: "genus:Alces" ; Times: 2
+	Query: "avahi" ; Times: 2
+	Query: "specificepithet:vison" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1281 download events in this period)
+Total number of records downloaded: 1714
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 28
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-29 ; Times: 5
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-13 ; Times: 6
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-08 ; Times: 6
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "Lophocebus aterrimus" ; Times: 1
+	Query: "allactaga" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "class:Mammalia funambulus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "avahi" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "lutra lutra (Norway)" ; Times: 3
+	Query: "dendrolagus" ; Times: 1
+	Query: "Pteropus melanotus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 2
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
