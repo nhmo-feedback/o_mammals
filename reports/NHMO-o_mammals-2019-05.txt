@@ -1,0 +1,130 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 975
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 15
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 6
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 11
+	Country: Belgium ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Paraguay ; Times: 2
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 6
+	Date: 2019-05-27 ; Times: 7
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 4
+	Date: 2019-05-20 ; Times: 7
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-03 ; Times: 7
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-30 ; Times: 11
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "goral" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 4
+	Query: "Naemorhedus" ; Times: 2
+	Query: "genus:Eubalaena year &gt;= 1900 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ratufa indica" ; Times: 5
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 2
+	Query: "11225" ; Times: 1
+	Query: "lutra lutra" ; Times: 2
+	Query: "genus:Eubalaena year &gt;= 1900 year &lt;= 1940" ; Times: 2
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "naemorhedus" ; Times: 1
+	Query: "Moschus" ; Times: 3
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "genus:myocastor" ; Times: 1
+	Query: "gracilinanus marica" ; Times: 1
+	Query: "10408" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "specificepithet:longicaudis family:Mustelidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Funambulus tristriatus" ; Times: 5
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "lutra lutra (Norway)" ; Times: 6
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "equus" ; Times: 1
+	Query: "genus:Lutra country:&#34;Norway&#34;" ; Times: 2
+	Query: "hvoslef" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 2
+	Query: "family:Balaenidae year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:Lutra genus:Lutra country:&#34;Norway&#34;" ; Times: 1
+	Query: "lutra lutra vntype:specimen (Norway)" ; Times: 1
+	Query: "family:Mustelidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "18900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 940 download events in this period)
+Total number of records downloaded: 724
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 3
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 3
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 4
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gracilinanus marica" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "genus:Lutra country:&#34;Norway&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Hemicentetes semispinosus" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "lutra lutra vntype:specimen (Norway)" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "lutra lutra (Norway)" ; Times: 6
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "equus" ; Times: 1
+
+
+End of report.
