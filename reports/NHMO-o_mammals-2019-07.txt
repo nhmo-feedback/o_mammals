@@ -1,0 +1,151 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 859
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Luxembourg ; Times: 1
+	Country: United States ; Times: 49
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 3
+	Date: 2019-07-08 ; Times: 24
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-24 ; Times: 4
+	Date: 2019-07-01 ; Times: 4
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-02 ; Times: 2
+	Date: 2019-07-16 ; Times: 4
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-06 ; Times: 3
+	Date: 2019-07-10 ; Times: 5
+	Date: 2019-07-12 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "genus:Pteromys" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sumatrensis" ; Times: 1
+	Query: "genus:Sciurus specificepithet:vulgaris" ; Times: 1
+	Query: "genus:Alopex" ; Times: 3
+	Query: "Thylacinus vntype:specimen" ; Times: 3
+	Query: "potamogale" ; Times: 1
+	Query: "order:Primates country:&#34;Colombia&#34; year &lt;= 1900" ; Times: 1
+	Query: "Lama" ; Times: 1
+	Query: "genus:Allactaga specificepithet:major" ; Times: 1
+	Query: "genus:Dasyurus specificepithet:hallucatus" ; Times: 1
+	Query: "genus:Bettongia specificepithet:penicillata" ; Times: 1
+	Query: "Eubalaena" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "genus:Petrogale specificepithet:penicillata" ; Times: 1
+	Query: "genus:Orcinus" ; Times: 2
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "genus:Mirounga year &gt;= 1875 year &lt;= 1930" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Petaurista specificepithet:petaurista" ; Times: 1
+	Query: "genus:Onychogalea specificepithet:frenata" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "eubalaena" ; Times: 1
+	Query: "genus:Mirounga year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "order:Primates country:&#34;Colombia&#34; year &lt;= 1850" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sinensis" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Procyon specificepithet:cancrivorus" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "10780" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Lemur specificepithet:catta" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "genus:Otolemur specificepithet:crassicaudatus" ; Times: 1
+	Query: "megaptera" ; Times: 1
+	Query: "coypus" ; Times: 2
+	Query: "erinaceus" ; Times: 1
+	Query: "Bos taurus mappable:1" ; Times: 1
+	Query: "lutra lutra (norway)" ; Times: 3
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 1
+	Query: "hvoslef" ; Times: 3
+	Query: "genus:Galemys specificepithet:pyrenaicus" ; Times: 1
+	Query: "specificepithet:catta genus:lemur" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 1
+	Query: "genus:Avahi specificepithet:laniger" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "Chroeomys pulcherrimus" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 2
+	Query: "genus:Redunca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 985 download events in this period)
+Total number of records downloaded: 549
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 3
+	Country: Peru ; Times: 8
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-20 ; Times: 3
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-12 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "lutra lutra (norway)" ; Times: 3
+	Query: "Caluromys philander" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 1
+	Query: "Nasua nasua brazil" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Chroeomys pulcherrimus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 2
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
