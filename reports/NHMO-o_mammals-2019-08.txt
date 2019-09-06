@@ -1,0 +1,169 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 771
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 52
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 30
+	Country: Sri Lanka ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 7
+	Date: 2019-08-09 ; Times: 5
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-22 ; Times: 5
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-15 ; Times: 12
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 32
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-24 ; Times: 4
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-30 ; Times: 9
+	Date: 2019-08-20 ; Times: 5
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 4
+	Query: "Ovis aries" ; Times: 1
+	Query: "acutorostrata" ; Times: 2
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Bos frontalis" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "Petaurista leucogenys" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "Ovibos" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "specificepithet:serotinus genus:Eptesicus" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "20284" ; Times: 1
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Ratufa affinis" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Thryonomys swinderianus" ; Times: 2
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "catalognumber:244" ; Times: 1
+	Query: "specificepithet:vison genus:mustela" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "3541" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "specificepithet:pipistrellus genus:pipistrellus" ; Times: 3
+	Query: "Leontopithecus chrysopygus" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 2
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 2
+	Query: "ratufa affinis" ; Times: 1
+	Query: "2315 mam" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Hapalemur griseus" ; Times: 1
+	Query: "genus:Alcelaphus  specificepithet:buselaphus" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1034 download events in this period)
+Total number of records downloaded: 447
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-15 ; Times: 6
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-29 ; Times: 5
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "Ovibos" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Sciuridae" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
