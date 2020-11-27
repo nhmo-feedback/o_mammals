@@ -1,0 +1,117 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 562
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Nepal ; Times: 5
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 7
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "15583" ; Times: 1
+	Query: "Lepilemur" ; Times: 1
+	Query: "Tursiops" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "ZM" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "cryptoprocta ferox" ; Times: 1
+	Query: "Ursus arctos continent:Europe" ; Times: 2
+	Query: "Lutra lutra (Norway)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1106 download events in this period)
+Total number of records downloaded: 14751
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Nepal ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 13
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 4
+	Query: "genus:Gulo" ; Times: 1
+	Query: "family:Soricidae country:&#34;Egypt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 2
+	Query: "genus:Martes" ; Times: 2
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "family:viverridae country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lutra lutra (Norway)" ; Times: 2
+	Query: "Puma concolor" ; Times: 2
+	Query: "Martes martes" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+
+
+End of report.
