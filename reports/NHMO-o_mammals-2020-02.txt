@@ -1,0 +1,192 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 795
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 123
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 15
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 29
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 14
+	Date: 2020-02-07 ; Times: 6
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 3
+	Date: 2020-02-28 ; Times: 7
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-02 ; Times: 10
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-01 ; Times: 26
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 40
+	Query: "meles meles" ; Times: 2
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "phoca" ; Times: 4
+	Query: "15700" ; Times: 1
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Malaysia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mesoplodon Bidens" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "NA NA" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "specificepithet:truncatus genus:chlamyphorus" ; Times: 1
+	Query: "(dermoptera Cynocephalidae)" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "&#34;okapi&#34;" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 3
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "Potamogale velox" ; Times: 1
+	Query: "genus:balaena" ; Times: 2
+	Query: "&#34;Bos taurus&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Monodon class:Mammalia institutioncode:NHMO" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 1
+	Query: "&#34;Lontra longicaudis&#34;" ; Times: 3
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Nasalis larvatus" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "(dermoptera sunda)" ; Times: 3
+	Query: "(Dermoptera variegatus)" ; Times: 2
+	Query: "Bradypus torquatus" ; Times: 2
+	Query: "(dermoptera)" ; Times: 4
+	Query: "cystophora" ; Times: 5
+	Query: "order:dermoptera" ; Times: 2
+	Query: "Dermoptera" ; Times: 25
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 2
+	Query: "vntype:specimen order:Artiodactyla country:&#34;Indonesia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "vntype:specimen genus:Tragulus order:Artiodactyla basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;Erinaceus europaeus&#34;" ; Times: 1
+	Query: "11796" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Dendrohyrax" ; Times: 1
+	Query: "genus:heliosciurus institutioncode:NHMO" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "lagorchestes leporides" ; Times: 1
+	Query: "&#34;okapi johnstoni&#34;" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 105 (out of 1023 download events in this period)
+Total number of records downloaded: 2448
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 81
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 12
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-03 ; Times: 18
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-06 ; Times: 16
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "lagorchestes leporides" ; Times: 1
+	Query: "family:Soricidae country:&#34;Egypt&#34;" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "Dermoptera" ; Times: 26
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "genus:Manis" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
