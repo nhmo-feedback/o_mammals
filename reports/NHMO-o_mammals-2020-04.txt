@@ -1,0 +1,278 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 428
+Number of records retrieved in searches: 8585
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 38
+	Country: Ireland ; Times: 1
+	Country: Norway ; Times: 18
+	Country: India ; Times: 10
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 297
+	Country: Paraguay ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 7
+	Country: Switzerland ; Times: 13
+	Country: Colombia ; Times: 10
+	Country: Hong Kong ; Times: 5
+	Country: Argentina ; Times: 13
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 164
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-23 ; Times: 5
+	Date: 2020-04-20 ; Times: 11
+	Date: 2020-04-07 ; Times: 101
+	Date: 2020-04-26 ; Times: 5
+	Date: 2020-04-01 ; Times: 10
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-25 ; Times: 3
+	Date: 2020-04-28 ; Times: 8
+	Date: 2020-04-29 ; Times: 14
+	Date: 2020-04-08 ; Times: 16
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 4
+	Date: 2020-04-03 ; Times: 33
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 11
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Ovis aries" ; Times: 10
+	Query: "class:Mammalia institutioncode:NHMO Lemmus lemmus" ; Times: 2
+	Query: "sorex minutissimus" ; Times: 1
+	Query: "Nandinia binotata" ; Times: 5
+	Query: "Muntiacus muntjak" ; Times: 3
+	Query: "Colombia vntype:specimen order:Primates institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lutra lutra (norway)" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 4
+	Query: "Vulpes corsac" ; Times: 5
+	Query: "Mandrillus sphinx" ; Times: 4
+	Query: "Chaerephon pumila" ; Times: 4
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "(18677)" ; Times: 1
+	Query: "Potamochoerus larvatus" ; Times: 4
+	Query: "class:Mammalia institutioncode:NHMO recordedby:Nansen" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "Dama dama" ; Times: 3
+	Query: "Manis tricuspis" ; Times: 4
+	Query: "Cephalophus dorsalis" ; Times: 4
+	Query: "Hardangervidda" ; Times: 1
+	Query: "class:Mammalia institutioncode:NHMO Cervus elaphus" ; Times: 1
+	Query: "class:Mammalia institutioncode:NHMO Cervidae" ; Times: 1
+	Query: "C. gambianus" ; Times: 5
+	Query: "Cervus nippon" ; Times: 4
+	Query: "Meles meles" ; Times: 4
+	Query: "mammal institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "Cercopithecus pogonias" ; Times: 4
+	Query: "specificepithet:variegatus genus:Cynocephalus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 6
+	Query: "Felis silvestris" ; Times: 5
+	Query: "Cabassous" ; Times: 1
+	Query: "(18647)" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 4
+	Query: "vntype:specimen family:Megaladapidae" ; Times: 1
+	Query: "moschus moschiferus" ; Times: 1
+	Query: "Ovis ammon" ; Times: 6
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "Cephalophus ogilbyi" ; Times: 4
+	Query: "Microtus agrestis" ; Times: 2
+	Query: "Babyrousa babyrussa" ; Times: 4
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "Lontra longicaudis" ; Times: 7
+	Query: "Rangifer tarandus" ; Times: 3
+	Query: "Cercopithecus nictitans" ; Times: 4
+	Query: "Mustela erminea" ; Times: 4
+	Query: "Neomys fodiens" ; Times: 2
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Cercopithecus diana" ; Times: 4
+	Query: "Papio ursinus" ; Times: 4
+	Query: "class:mammalia institutioncode:NHMO basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "Felis chaus" ; Times: 4
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "asinus" ; Times: 2
+	Query: "12876" ; Times: 1
+	Query: "melursus ursinus" ; Times: 3
+	Query: "felidae institutioncode:NHMO" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 1
+	Query: "institutioncode:NHMO hastypestatus:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 6
+	Query: "Apodemus sylvaticus" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Myocastor coypus" ; Times: 2
+	Query: "hylobates muelleri" ; Times: 3
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "Tragelaphus imberbis" ; Times: 4
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand NOT Washington NOT Africa" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 13
+	Query: "Alouatta seniculus" ; Times: 6
+	Query: "Cercopithecus mona" ; Times: 4
+	Query: "class:Mammalia institutioncode:NHMO Nansen" ; Times: 2
+	Query: "cheiromeles" ; Times: 2
+	Query: "Capra hircus" ; Times: 2
+	Query: "Alces alces" ; Times: 3
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 10
+	Query: "Manis pentadactyla" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "Cephalophus silvicultor" ; Times: 4
+	Query: "Potamochoerus porcus" ; Times: 4
+	Query: "alces alces" ; Times: 2
+	Query: "class:Mammalia institutioncode:NHMO Ursus maritimus" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Atherurus africanus" ; Times: 5
+	Query: "Herpailurus yagouaroundi" ; Times: 13
+	Query: "class:Mammalia institutioncode:NHMO Vulpes" ; Times: 3
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "26884" ; Times: 2
+	Query: "Sphiggurus melanurus" ; Times: 3
+	Query: "15034" ; Times: 1
+	Query: "Panthera onca" ; Times: 4
+	Query: "Bos taurus" ; Times: 3
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "(18642)" ; Times: 2
+	Query: "Naemorhedus goral" ; Times: 4
+	Query: "V. vulpes" ; Times: 5
+	Query: "Panthera tigris" ; Times: 6
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 11
+	Query: "lutra lutra (Norway)" ; Times: 2
+	Query: "Mirounga AND 18 NOT Australia NOT California NOT Oregon NOT Zealand" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "specificepithet:longicaudis country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "vntype:specimen specificepithet:variegatus genus:Cynocephalus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 7
+	Query: "cabassous unicinctus" ; Times: 3
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Mirounga NOT Australia NOT California NOT Oregon NOT Zealand NOT Alaska NOT Washington NOT Africa" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 2
+	Query: "genus:BARBASTELLA" ; Times: 1
+	Query: "Lutra lutra" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1171 download events in this period)
+Total number of records downloaded: 21720
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: India ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 41
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 19
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 5
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 6
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-26 ; Times: 4
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 7
+	Date: 2020-04-21 ; Times: 6
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-28 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "vntype:specimen family:Phocidae" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "Herpailurus yagouaroundi" ; Times: 1
+	Query: "class:Mammalia institutioncode:NHMO Vulpes" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "lutra lutra" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "vntype:specimen family:Camelidae" ; Times: 1
+	Query: "lutra lutra (norway)" ; Times: 1
+	Query: "vntype:specimen genus:Otolemur" ; Times: 1
+	Query: "lutra lutra (Norway)" ; Times: 2
+	Query: "Thomasomys" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "vntype:specimen genus:Petaurista" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "vntype:specimen genus:Paraxerus" ; Times: 1
+	Query: "vntype:specimen family:Thryonomyidae" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 12
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "institutioncode:NHMO" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 6
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "vntype:specimen genus:Heliosciurus" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Sylvilagus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Cameroon&#34; OR &#34;Cameroun&#34; OR &#34;Kamerun&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "Okapia johnstoni" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+
+
+End of report.
