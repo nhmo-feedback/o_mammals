@@ -1,0 +1,160 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 1284
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 46
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 75
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-05 ; Times: 10
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 21
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-16 ; Times: 5
+	Date: 2019-11-11 ; Times: 4
+	Date: 2019-11-03 ; Times: 45
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 10
+	Date: 2019-11-09 ; Times: 4
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-12 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Petaurus australis" ; Times: 2
+	Query: "Funambulus tristriatus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Presbytis thomasi" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 5
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Rhinoceros sondaicus" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 5
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 2
+	Query: "Clethrionomys rufocanus" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Eubalaena glacialis" ; Times: 2
+	Query: "Lophocebus aterrimus" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 6
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Leopardus pardalis 2007" ; Times: 4
+	Query: "18819" ; Times: 1
+	Query: "Dasyprocta fuliginosa" ; Times: 3
+	Query: "Halichoerus grypus" ; Times: 9
+	Query: "helarctos malayanus" ; Times: 2
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "Alces alces" ; Times: 4
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 1
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "Thomasomys laniger" ; Times: 1
+	Query: "coypus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "Leptonychotes weddellii" ; Times: 1
+	Query: "Marmosa murina" ; Times: 2
+	Query: "specificepithet:longicaudis family:Mustelidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "rangifer tarandus" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "10565" ; Times: 1
+	Query: "tupaia tana" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Hippocamelus bisulcus" ; Times: 1
+	Query: "genus:tupaia institutioncode:NHMO" ; Times: 9
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Dasyprocta azarae" ; Times: 2
+	Query: "Leopardus pardalis 2015" ; Times: 2
+	Query: "19720" ; Times: 2
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "Leopardus pardalis 2016" ; Times: 4
+	Query: "Lagostomus maximus" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Babyrousa" ; Times: 1
+	Query: "18905" ; Times: 3
+	Query: "Funambulus palmarum" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1367 download events in this period)
+Total number of records downloaded: 217
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mus musculus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
