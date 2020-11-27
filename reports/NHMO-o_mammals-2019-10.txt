@@ -1,0 +1,149 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 994
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 94
+	Country: Chile ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Benin ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 2
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-24 ; Times: 3
+	Date: 2019-10-22 ; Times: 4
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 22
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 9
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-04 ; Times: 35
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-29 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma cinerea 1997" ; Times: 1
+	Query: "Rattus norvegicus 1972" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Geomys bursarius 2006" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Mus musculus 1981" ; Times: 2
+	Query: "Mus musculus 1980" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Rattus norvegicus 1975" ; Times: 1
+	Query: "Mus musculus 1989" ; Times: 2
+	Query: "Onychomys leucogaster 1997" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "funambulus tristriatus" ; Times: 1
+	Query: "Canis vetulus" ; Times: 1
+	Query: "Rattus norvegicus 1981" ; Times: 1
+	Query: "Onychomys leucogaster 2016" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 2
+	Query: "Leopardus pardalis 2007" ; Times: 1
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "Mus musculus 1974" ; Times: 2
+	Query: "Mus musculus 1997" ; Times: 2
+	Query: "Neotoma cinerea 2016" ; Times: 2
+	Query: "18509" ; Times: 1
+	Query: "Thomomys talpoides 2016" ; Times: 1
+	Query: "Rattus norvegicus 2006" ; Times: 1
+	Query: "Mus musculus 1975" ; Times: 4
+	Query: "Rattus norvegicus 2000" ; Times: 1
+	Query: "Geomys bursarius 1997" ; Times: 1
+	Query: "Mus musculus 2007" ; Times: 2
+	Query: "Mus musculus 2006" ; Times: 2
+	Query: "canis anthus" ; Times: 1
+	Query: "Mus musculus 2003" ; Times: 2
+	Query: "Rattus norvegicus 1974" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "specificepithet:murina genus:Marmosa" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Thomomys talpoides 1997" ; Times: 1
+	Query: "Geomys bursarius 2016" ; Times: 1
+	Query: "Gulo gulo" ; Times: 8
+	Query: "Mus musculus 1990" ; Times: 2
+	Query: "Mus musculus 1972" ; Times: 3
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "Pantholops hodgsonii" ; Times: 1
+	Query: "lutra lutra (Norway)" ; Times: 2
+	Query: "Mus musculus 1998" ; Times: 2
+	Query: "Mus musculus 1999" ; Times: 2
+	Query: "equus" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Rattus norvegicus 1997" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "Leopardus pardalis 2015" ; Times: 1
+	Query: "Mus musculus 1978" ; Times: 2
+	Query: "Leopardus pardalis 2016" ; Times: 1
+	Query: "Mus musculus 1979" ; Times: 2
+	Query: "capra hircus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "10495" ; Times: 2
+	Query: "myocastor coypus" ; Times: 1
+	Query: "10492" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1308 download events in this period)
+Total number of records downloaded: 888
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 16
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "order:primates country:&#34;brazil&#34;" ; Times: 1
+	Query: "Coendou prehensilis vntype:specimen" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "funambulus" ; Times: 2
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "funambulus palmarum" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "family:soricidae" ; Times: 1
+
+
+End of report.
