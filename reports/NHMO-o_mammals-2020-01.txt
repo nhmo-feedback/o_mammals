@@ -1,0 +1,153 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2240
+Number of records retrieved in searches: 3103
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 2212
+	Country: Portugal ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 8
+	Country: Latvia ; Times: 3
+	Country: Slovakia ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 5
+	Date: 2020-01-02 ; Times: 2143
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-06 ; Times: 14
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-14 ; Times: 7
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-21 ; Times: 6
+	Date: 2020-01-31 ; Times: 13
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-27 ; Times: 9
+	Date: 2020-01-13 ; Times: 7
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-30 ; Times: 14
+	Date: 2020-01-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "country:Ecuador scientificname:Hoplomys gymnurus " ; Times: 4
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "&#34;Ursus arctos&#34;" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 2
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "&#34;lynx lynx&#34;" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Dermoptera AND (NOT birds)" ; Times: 1
+	Query: "distance(location,geopoint(2813266.0539046,-2055913.08604036))&lt;454470.177343282" ; Times: 2151
+	Query: "ZMB" ; Times: 3
+	Query: "Panthera onca" ; Times: 9
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "genus:priodontes" ; Times: 2
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "vespertilio murinus" ; Times: 1
+	Query: "Galemys pyrenaicus" ; Times: 3
+	Query: "dermoptera" ; Times: 12
+	Query: "specificepithet:lumholtzi genus:Dendrolagus institutioncode:NHMO" ; Times: 1
+	Query: "elephantulus revoili" ; Times: 2
+	Query: "Lepus capensis mappable:1" ; Times: 3
+	Query: "Castor fiber" ; Times: 3
+	Query: "12356" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "Phoca vitulina vntype:specimen" ; Times: 1
+	Query: "Mustela putorius mappable:1" ; Times: 2
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "15-2654" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1584 download events in this period)
+Total number of records downloaded: 1103
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 40
+	Country: Latvia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-28 ; Times: 1
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-31 ; Times: 11
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-30 ; Times: 8
+	Date: 2020-01-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "Myotis velifer" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "phoca vitulina" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "family:Bathyergidae" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "propithecus diadema" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "Sarcophilus harrisii" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Castor fiber" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "dermoptera" ; Times: 16
+
+
+End of report.
