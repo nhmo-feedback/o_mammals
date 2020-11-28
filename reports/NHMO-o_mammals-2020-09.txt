@@ -1,0 +1,138 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 873
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 44
+	Country: Ireland ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 5
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 3
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 3
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 8
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-07 ; Times: 8
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "Russia year &gt;= 1915 year &lt;= 1915" ; Times: 1
+	Query: "10122" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "cavia porcellus" ; Times: 5
+	Query: "vntype:specimen genus:Delphinapterus leucas" ; Times: 1
+	Query: "specificepithet:lagopus genus:Alopex" ; Times: 8
+	Query: "zmb" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "vntype:specimen specificepithet:cynocephalus genus:Thylacinus" ; Times: 2
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "genus:Echimys order:Rodentia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:NHMO" ; Times: 1
+	Query: "NHM 14102" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "Meles meles" ; Times: 7
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "scientificname:Meles meles" ; Times: 2
+	Query: "vntype:specimen genus:Rangifer tarandus" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "bos taurus" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "genus:thylacinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cricetomys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 976 download events in this period)
+Total number of records downloaded: 831
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 4
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
