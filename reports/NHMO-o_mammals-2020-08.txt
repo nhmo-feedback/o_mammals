@@ -1,0 +1,164 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 1231
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+	Country: Netherlands ; Times: 11
+	Country: Ireland ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 37
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: Norway ; Times: 2
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-22 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-10 ; Times: 6
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-12 ; Times: 3
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-30 ; Times: 12
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-21 ; Times: 39
+
+List of queries that retrieved data from the resource: 
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "31594" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "specificepithet:catta genus:Lemur" ; Times: 3
+	Query: "lemur catta" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "Ovis ammon" ; Times: 1
+	Query: "genus:Antilocapra country:USA" ; Times: 4
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "genus:Erythrocebus institutioncode:NHMO" ; Times: 2
+	Query: "Apodemus sylvaticus" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "genus:Erythrocebus" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "mappable:1 scientificname:Myocastor coypus" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "genus:Erythrocebus country:&#34;senegal&#34;" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "Cercopithecus nictitans" ; Times: 1
+	Query: "scientificname:Lepus timidus" ; Times: 1
+	Query: "Hylobates lar" ; Times: 1
+	Query: "6502 order:rodentia" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 3
+	Query: "V. vulpes" ; Times: 1
+	Query: "Vulpes corsac" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "mappable:1 scientificname:Dama dama" ; Times: 1
+	Query: "genus:Erythrocebus locality:senegal" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 1
+	Query: "Cercopithecus mona" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 2
+	Query: "Capra hircus" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "Macaca sinica" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "genus:Erythrocebus locality:senegal country:&#34;senegal&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 2
+	Query: "genus:Hyperoodon" ; Times: 1
+	Query: "mappable:1 scientificname:Mustela vison" ; Times: 1
+	Query: "Hylobates muelleri" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Cercopithecus neglectus" ; Times: 1
+	Query: "Lepus brachyurus" ; Times: 1
+	Query: "Cercopithecus pogonias" ; Times: 1
+	Query: "class:Mammalia institutioncode:NHMO Ursus arctos" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Papio ursinus" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "Erythrocebus" ; Times: 2
+	Query: "Monodontidae" ; Times: 1
+	Query: "genus:Erythrocebus order:Primates locality:senegal" ; Times: 2
+	Query: "11295" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 756 download events in this period)
+Total number of records downloaded: 1035
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 5
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Mirounga leonina" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;norway&#34;" ; Times: 2
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "genus:Pongo" ; Times: 1
+
+
+End of report.
