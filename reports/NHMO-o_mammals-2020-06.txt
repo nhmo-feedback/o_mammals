@@ -1,0 +1,85 @@
+Report for Institution Code NHMO, Resource o_mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 57
+Number of records retrieved in searches: 713
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 38
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-10 ; Times: 17
+	Date: 2020-06-11 ; Times: 12
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "orcinus" ; Times: 1
+	Query: "mustela asia" ; Times: 2
+	Query: "specificepithet:lutra genus:lutra" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "(10058)" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "genus:paguma" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "class:Mammalia institutioncode:NHMO" ; Times: 1
+	Query: "alces alces" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Lagenorhynchus albirostris mappable:1" ; Times: 3
+	Query: "Bos taurus" ; Times: 6
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Pardofelis marmorata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 474 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pardofelis marmorata" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+
+
+End of report.
